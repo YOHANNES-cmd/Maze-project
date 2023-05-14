@@ -27,14 +27,14 @@ Example:
 You must provide a way to rotate the camera during the execution. For example, you can rotate the camera when the left and right arrow keys are pressed on the keyboard or when the mouse moves (like a FPS game).
 
 Example:
-![Example Image](example_images/task_2.gif)
+![Example Image](example_images/GIF IMAGE3.gif)
 
 ## 3. Move
 
 You must provide a way to move the camera during the execution. For example, you can move the camera when the W, A, S, and D keys are pressed on the keyboard.
 
 Example:
-![Example Image](example_images/task_3.gif)
+![Example Image](example_images/GIF IMAGE4.gif)
 
 ## 4. Ouch!
 
@@ -57,7 +57,7 @@ Check if your code adheres to the coding style guidelines of your chosen program
 Add textures to the walls to enhance their appearance.
 
 Example:
-![Example Image](example_images/task_8.png)
+![Example Image](example_images/image8.png)
 
 ## 9. Multi-task!
 
@@ -71,14 +71,14 @@ Add the ability to move in several directions and rotate simultaneously. Handle 
 Add textures to the ground and/or ceiling to enhance their appearance.
 
 Example:
-![Example Image](example_images/task_10.png)
+![Example Image](example_images/image9.png)
 
 ## 11. Weapons
 
 Add textures for weapons to provide a more immersive experience.
 
 Example:
-![Example Image](example_images/task_11.png)
+![Example Image](example_images/image9.png)
 
 ## 12. Enemies
 

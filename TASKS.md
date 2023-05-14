@@ -13,14 +13,14 @@ In this first part, you’ll have to:
 - Provide a way to modify the map in your code to see if it works after recompiling it (e.g., using an array of arrays of integers or characters).
 
 Example:
-![Example Image](example_images/task_0.png)
+![Example Image](example_images/image1.png)
 
 ## 1. Orientation
 
 In this part, you must draw a different color depending on the orientation of the walls. You must draw walls facing NORTH and SOUTH in a different color from walls facing EAST and WEST.
 
 Example:
-![Example Image](example_images/task_1.png)
+![Example Image](example_images/image2.png)
 
 ## 2. Rotation
 

@@ -1,72 +1,51 @@
-me with Raycasting
+# 3D Game with Raycasting
 
-## Overview
+Creating a 3D game using raycasting can be an exciting project. Raycasting is a technique commonly used in older games like Wolfenstein 3D to create the illusion of 3D environments. This repository provides a step-by-step guide to help you develop your own raycasting game.
 
-Creating a 3D game using raycasting can be an exciting project. Raycasting is a technique commonly used in older games like Wolfenstein 3D to create the illusion of 3D environments. This README provides an overview of the steps you can follow to develop your own raycasting game.
+## Tasks
 
-## Table of Contents
+Here are the tasks you can complete to build your raycasting game:
 
-- [Choosing a Programming Language and Framework](#choosing-a-programming-language-and-framework)
-- [Designing the Game World](#designing-the-game-world)
-- [Implementing the Raycasting Engine](#implementing-the-raycasting-engine)
-- [Player Movement and Controls](#player-movement-and-controls)
-- [Graphics and Textures](#graphics-and-textures)
-- [Game Logic and Interactions](#game-logic-and-interactions)
-- [User Interface and Feedback](#user-interface-and-feedback)
-- [Testing and Refinement](#testing-and-refinement)
+0. Walls
+1. Orientation
+2. Rotation
+3. Move
+4. Ouch!
+5. Parser
+6. Draw the map
+7. Coding Style + Documentation
+8. Textures
+9. Multi-task!
+10. Ground Textures
+11. Weapons
+12. Enemies
+13. Make it Rain
+14. Extra option
 
-## Choosing a Programming Language and Framework
+For detailed information on each task, please refer to the [TASKS.md](TASKS.md) file.
 
-Select a programming language and framework that support 3D graphics and raycasting. Some popular options include:
+## Getting Started
 
-- Unity (C#)
-- Unreal Engine (C++)
-- Godot (GDScript or C#)
+To get started with the development of your raycasting game, follow these steps:
 
-Choose the one that best suits your requirements and familiarity with the language and framework.
+1. Choose a programming language and framework that supports 3D graphics and raycasting. Some popular options include Unity (C#), Unreal Engine (C++), or Godot (GDScript or C#).
+2. Clone this repository to your local machine.
+3. Review the tasks outlined in the [TASKS.md](TASKS.md) file and start working on them one by one.
+4. Use the provided examples and resources to guide you through the implementation of each task.
+5. Commit and push your changes to your own repository on GitHub.
+6. Keep testing and refining your game, gathering feedback from playtesters, and iterating on your design based on their suggestions.
+7. Document your code and ensure it follows the coding style guidelines of your chosen programming language or framework.
 
-## Designing the Game World
+## Contributing
 
-Plan the layout and design of your game world. Consider the following:
+Contributions to this project are welcome! If you have any ideas, improvements, or bug fixes, please submit a pull request.
 
-- Size, structure, and style of the 3D maze or environment you want to create.
-- Creating a level editor or using existing tools to assist in building and editing the game world.
+## License
 
-## Implementing the Raycasting Engine
+This project is licensed under the [MIT License](LICENSE).
 
-Develop the raycasting engine responsible for rendering the 3D environment. The engine should:
+## Acknowledgements
 
-- Cast rays from the player's perspective.
-- Detect intersections with walls.
-- Calculate the distance to create the illusion of depth.
-
-Implement algorithms like Digital Differential Analysis (DDA) or Bresenham's line algorithm to trace the rays and detect wall intersections.
-
-## Player Movement and Controls
-
-Implement player movement controls to navigate through the 3D environment. Consider the following:
-
-- Allowing the player to move forward, backward, strafe, and rotate.
-- Handling collision detection to prevent the player from moving through walls or objects.
-
-## Graphics and Textures
-
-Apply textures to the walls and objects within the game world to enhance the visual experience. Consider using texture mapping techniques to map 2D textures onto 3D surfaces.
-
-## Game Logic and Interactions
-
-Implement game logic based on the objectives and nature of your game. Consider the following:
-
-- Win conditions, collectibles, enemy AI, or puzzles.
-- Interactions with objects or elements in the environment, such as switches, doors, or traps.
-
-## User Interface and Feedback
-
-Develop a user interface that displays relevant game information, such as health, score, or inventory. Include visual and audio feedback for important events, like collecting items or encountering enemies.
-
-## Testing and Refinement
-
-Regularly test your game to identify and fix bugs, optimize performance, and improve the player experience. Gather feedback from playtesters and iterate on your design based on their suggestions.
-
-Remember to break down your project into smaller tasks and tackle them one at a time. Utilize online resources, tutorials, and documentation specific to your chosen programming language and framework. Developing a 3D game with raycasting can be challenging, but it also offers a rewarding learning experience. Good luck with your game development project!
+- The raycasting examples and inspiration for this project come from classic games like Wolfenstein 3D.
+- Thanks to the open-source community for the various libraries and resources used in the development of this game.
 
